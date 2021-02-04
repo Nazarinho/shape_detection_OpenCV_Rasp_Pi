@@ -1,5 +1,5 @@
 # shape_detection_OpenCV_Rasp_Pi
->> Need to run on Raspberry Pi with opencv higher than 4.0.0
+>> Need to run on Raspberry Pi with opencv higher than 4.0.0 and python 3.7
 >> Initially opens 2 windows:
   >> Window for the Filter with trackbar (blur and threshold params);
   >> Window with the actual unprocessed stream.
