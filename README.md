@@ -4,4 +4,4 @@
   >> Window for the Filter with trackbar (blur and threshold params);
   >> Window with the actual unprocessed stream.
 >> If the condition of the detected area of the rectangle is met, the 3rd window is opened.
->> There is a possibility to save the original image where an object shape was detected meeting area conditions. UNCOMMENT line
+>> There is a possibility to save the original image where an object shape was detected meeting area conditions. UNCOMMENT line 106
