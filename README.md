@@ -9,8 +9,8 @@ Initially opens 2 windows:
 
 If the condition of the detected area of the rectangle is met, the 3rd window is opened:
 
->>Window with the detected shape
+>>Window with the detected shape drawn in the frame.
 
-There is a possibility to save the original image where an object shape was detected meeting area conditions. 
+There is a possibility to save the original image with the desired shape detected in a local directory.
 
 UNCOMMENT line 106
